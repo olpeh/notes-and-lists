@@ -3,18 +3,28 @@
 Just a long list of links to interesting stuff that I have stumbled upon. The links are in no particular order and future links will be added to the bottom of each section. Trying to keep these in some kind of categories.
 
 // @TODO: Create a script that saves all these websites as HTML and commits those to this repo
+// @TODO: Add short description after each URL
 
 ## Web Performance
 
 ### Tools or Documentation
 
 * https://developers.google.com/speed/pagespeed/insights/
+  * Analyze your web page speed as Google sees it
 * https://www.webpagetest.org
+  * Free web page performance test
 * https://developers.google.com/web/tools/lighthouse/
+  * Test your application performance, especially good for PWAs
 * https://www.giftofspeed.com/
+  * Website speed test, nicely looking but not as many features as webpagetest.org
 * https://whatdoesmysitecost.com/
+  * How much data is spent by your site
 * https://developers.google.com/web/fundamentals/performance/critical-rendering-path/
+  * Nice explanations on critical rendering path
 * https://developers.google.com/web/tools/chrome-user-experience-report/
+  * The Chrome User Experience Report provides user experience metrics for how real-world Chrome users experience popular destinations on the web.
+* http://requestmap.webperf.tools/
+  * RequestMap, Visually map the request sent by a site
 
 ### Blog Posts and Tutorials
 
@@ -29,7 +39,9 @@ Just a long list of links to interesting stuff that I have stumbled upon. The li
 * https://digiday.com/media/google-reveals-sites-failing-ads-including-forbes-la-times/
 * https://webmasters.googleblog.com/2018/01/using-page-speed-in-mobile-search.html
 * https://font-display.glitch.me/
+  * With the new font-display attribute, you can control the length of each of the periods in downloading and rendering a font, and what happens when one of them fails.
 * http://trentwalton.com/notes/2018/01/04/third-party-scripts.html
+  * "My latest realization is that delivering a performant, accessible, responsive, scalable website isn’t enough: I also need to consider the impact of third-party scripts."
 * https://timkadlec.com/2014/01/fast-enough/
 * http://trentwalton.com/notes/2018/02/05/tag-manager-chat-with-vector-media-group.html
 * http://trentwalton.com/notes/2018/01/23/third-party-script-prevalence-on-alexa-top-50.html
@@ -44,6 +56,12 @@ Just a long list of links to interesting stuff that I have stumbled upon. The li
 * https://jakearchibald.com/2016/caching-best-practices/
 * https://wildlyinaccurate.com/introducing-a-faster-bbc-news-front-page/
 * https://engineering.klarna.com/how-removing-caching-improved-mobile-performance-by-25-52a17cc339a2
+* http://trentwalton.com/notes/2018/01/05/andy-davis-and-simon-hearne-on-third-party-components.html
+  * Third party: managed by someone else
+  * Amount of third party scripts is increasing: 3rd, 4th and 5th-parties etc.
+  * Generally sites with tag managers have worse visual performance
+  * Find what's on the site: Ghostery, Webpagetest, RequestMap
+  * Monitor your third party resources, both syntethic and RUM
 
 ## Progressive Web Applications
 
@@ -80,6 +98,12 @@ Just a long list of links to interesting stuff that I have stumbled upon. The li
 * https://blog.hackages.io/migrating-a-service-worker-from-an-old-domain-to-your-new-domain-69236418051c
 * https://www.loxodrome.io/post/service-worker-registration/
 * https://www.loxodrome.io/post/break-service-workers/
+* https://www.theverge.com/2018/2/7/16987842/microsoft-progressive-web-apps-pwa-edge-windows-10
+  * Edge on Windows 10 will have desktop PWA support
+  * Also available on Chrome Canary under chrome://flags/#enable-desktop-pwas
+* https://webperf.ninja/2017/twitter-pwa/
+  * Twitter Lite isn't as good as the app, and that's okay
+  * Published April 07, 2017, so most of the issues mentioned are already fixed
 
 ## React, Preact, VueJS, CycleJS and Others
 
@@ -96,6 +120,10 @@ Just a long list of links to interesting stuff that I have stumbled upon. The li
 * http://alistapart.com/article/inline-validation-in-web-forms
 * https://medium.com/@treshugart/%C3%A5server-side-rendering-web-components-e5df705f3f48
 * https://www.smashingmagazine.com/2017/04/start-using-css-custom-properties/
+* https://medium.com/@matteozago/why-the-web-3-0-matters-and-you-should-know-about-it-a5851d63c949
+  * The future of the web (Web 3.0) relies on decentralized solutions
+* https://m.signalvnoise.com/stimulus-1-0-a-modest-javascript-framework-for-the-html-you-already-have-f04307009130
+  * Stimulus 1.0: A modest JavaScript framework for the HTML you already have
 
 ## Software Development in General
 
