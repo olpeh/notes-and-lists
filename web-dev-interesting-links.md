@@ -108,8 +108,9 @@ Just a long list of links to interesting stuff that I have stumbled upon. The li
 ## React, Preact, VueJS, CycleJS and Others
 
 * https://www.sitepoint.com/switching-from-react-to-cycle-js/
+  * Introduction to Cycle.js and a story about switching from React to Cycle.js
 * http://pixeljets.com/blog/why-we-chose-vuejs-over-react/
-* https://medium.com/@saurabhnanda/benchmarks-fp-languages-libraries-for-front-end-development-a11af0542f7e
+  * Story about choosing VueJS over React
 
 ## Web Development in General
 
@@ -143,13 +144,22 @@ Just a long list of links to interesting stuff that I have stumbled upon. The li
 ## Interesting But Difficult to Categorize
 
 * https://github.com/WICG/webpackage
+  * A collection of specifications aimed at packaging websites
 * http://bradfrost.com/blog/post/facebook-you-needy-sonofabitch/
+  * Facebook, You Needy Sonofabitch
 * https://hackernoon.com/tech-companies-these-are-the-perks-and-benefits-i-want-5e9788c30958
+  * "I don’t care about video games, NERF guns, or kegs in the kitchen."
 * https://dev.to/samjarman/how-to-build-an-online-presence-as-a-junior-developer
+  * "As a developer in 2017, it’s important to have some form of online presence."
 * https://www.lucify.com/inside-einsteins-head/
+  * An explorable explanation of relativistic spacetime, inspired by Albert Einstein's thought experiments.
 * https://staltz.com/the-web-began-dying-in-2014-heres-how.html
+  * "It looks like nothing changed since 2014, but GOOG and FB now have direct influence over 70%+ of internet traffic."
 
 ## Videos
 
 * https://www.youtube.com/watch?v=CPP9ew4Co0M
+  * Alexander Pope: ServiceWorkers Outbreak: index-sw-9a4c43b4b47781ca619eaaf5ac1db.js | JSConf EU 2017
+  * Good tips about avoiding pitfalls in service worker registration
 * https://www.youtube.com/watch?v=N33lYfsAsoU
+  * Umar Hansa / Optimise your Web Development Workflow
