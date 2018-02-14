@@ -65,6 +65,9 @@ Just a long list of links to interesting stuff that I have stumbled upon. The li
   * Generally sites with tag managers have worse visual performance
   * Find what's on the site: Ghostery, Webpagetest, RequestMap
   * Monitor your third party resources, both syntethic and RUM
+* http://www.deanhume.com/Home/BlogPost/measuring-web-page-performance-with-selenium-2-and-the-web-timings-api/56
+  * Measuring Web Page Performance with Selenium 2 and the Web Timings API
+  * Selenium webdriver can be used to execute "return window.performance.timing"
 
 ## Progressive Web Applications
 
@@ -107,6 +110,15 @@ Just a long list of links to interesting stuff that I have stumbled upon. The li
 * https://webperf.ninja/2017/twitter-pwa/
   * Twitter Lite isn't as good as the app, and that's okay
   * Published April 07, 2017, so most of the issues mentioned are already fixed
+* https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0
+  * More user engagement achieved with a PWA vs. native apps
+  * Route-level code-splitting etc.
+  * After introducing route-based code-splitting their main bundle sizes went down from 166KB to 101KB and DCL improved from 5.46s to 4.69s
+  * Many different methods for optimizing performance
+* https://medium.com/dev-channel/treebo-a-react-and-preact-progressive-web-app-performance-case-study-5e4f450d5299
+  * A React And Preact Progressive Web App Performance Case Study: Treebo
+  * HTML Streaming
+  * Caching static assets like their CSS and JavaScript bundles means pages load up (almost) instantly on repeat visits as they load from the disk cache rather than having to go back out to the network each time. Diligently defined caching headers can have this same effect with respect to disk cache hit-rates, but it’s Service Worker that gives us offline support.
 
 ## React, Preact, VueJS, CycleJS and Others
 
