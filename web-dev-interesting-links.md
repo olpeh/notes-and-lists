@@ -25,6 +25,9 @@ Just a long list of links to interesting stuff that I have stumbled upon. The li
   * The Chrome User Experience Report provides user experience metrics for how real-world Chrome users experience popular destinations on the web.
 * http://requestmap.webperf.tools/
   * RequestMap, Visually map the request sent by a site
+* https://developers.google.com/web/fundamentals/performance/rail
+  * RAIL: Response, Animation, Idle, Load
+  * Performance guidelines
 
 ### Blog Posts and Tutorials
 
@@ -163,3 +166,6 @@ Just a long list of links to interesting stuff that I have stumbled upon. The li
   * Good tips about avoiding pitfalls in service worker registration
 * https://www.youtube.com/watch?v=N33lYfsAsoU
   * Umar Hansa / Optimise your Web Development Workflow
+* https://vimeo.com/254834890
+  * SmashingConf London — Ilya Grigorik on ‘How’s the UX on the Web, Really?’
+  * If you can't measure it, you can't improve it
