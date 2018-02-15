@@ -28,6 +28,8 @@ Just a long list of links to interesting stuff that I have stumbled upon. The li
 * https://developers.google.com/web/fundamentals/performance/rail
   * RAIL: Response, Animation, Idle, Load
   * Performance guidelines
+* https://www-origin.sitespeed.io/
+  * Sitespeed.io is a set of Open Source tools that makes it easy to monitor and measure the performance of your web site.
 
 ### Blog Posts and Tutorials
 
@@ -181,3 +183,8 @@ Just a long list of links to interesting stuff that I have stumbled upon. The li
 * https://vimeo.com/254834890
   * SmashingConf London — Ilya Grigorik on ‘How’s the UX on the Web, Really?’
   * If you can't measure it, you can't improve it
+* https://vimeo.com/254728119
+  * SmashingConf London — Patrick Meenan on ‘How Fast Is It?’
+  * We have more metrics than what we know what to do with
+  * Pick metrics that will improve the user experience
+  * Page load is a horrible metric
