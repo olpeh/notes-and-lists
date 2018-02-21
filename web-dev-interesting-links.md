@@ -34,10 +34,21 @@ Just a long list of links to interesting stuff that I have stumbled upon. The li
 ### Blog Posts and Tutorials
 
 * https://gist.github.com/kkas/919fcf835a58ef610495
+  * Nice collection and recap of Critical Rendering Path related optimizations
 * http://duncanleung.com/the-critical-rendering-path-optimizing-script-loading/
+  * Optimizing the Critical Rendering Path involves optimizing the dependencies between HTML, CSS, and JavaScript and reducing the time required to process and turn them into rendered pixels.
 * https://medium.com/@luisvieira_gmr/understanding-the-critical-rendering-path-rendering-pages-in-1-second-735c6e45b47a
+  * Page load time is not a good metric for performance
+  * How does the browser rendering engine work?
+  * The initial file size of your DOM tree will have a performance cost.
+  * Tips for optimizations
 * https://varvy.com/pagespeed/critical-render-path.html
+  * Critical Rendering Path explained
+  * A real world example of optimizing the critical rendering path
 * https://www.sitepoint.com/optimizing-critical-rendering-path/
+  * How can you accomplish ambitious goal of 1s render time without cutting off features or dramatically disfiguring your site?
+  * Critical Rendering Path explained in detail
+  * Three Steps to Optimizing the Critical Rendering Path
 * http://www.apmdigest.com/website-response-time-1
 * https://css-tricks.com/prefetching-preloading-prebrowsing/
 * https://www.igvita.com/2015/08/17/eliminating-roundtrips-with-preconnect/
@@ -70,16 +81,37 @@ Just a long list of links to interesting stuff that I have stumbled upon. The li
 * http://www.deanhume.com/Home/BlogPost/measuring-web-page-performance-with-selenium-2-and-the-web-timings-api/56
   * Measuring Web Page Performance with Selenium 2 and the Web Timings API
   * Selenium webdriver can be used to execute "return window.performance.timing"
+* https://webperf.ninja/2016/getting-reliable-visual-metrics/
+  * Visual metrics such as Speed Index, render start and visual complete are the best proxies we have for user experience. Unfortunately two of these are totally thrown by rotating carousels, popups, cookie banners and adverts.
+* https://webperf.ninja/2016/prioritising-sitespeed-recommendations/
+  * The vast majority of the improvements are best practises and relatively easy to observe.
+    There’s little value in telling a client about the best practices they’ve already implemented.
+  * In my reports I now suggest that site speed optimisations can be ranked by two critical factors:
+    * What impact will this change have on the users
+    * How hard will the change be to implement
+* http://www.webperformancetoday.com/2011/07/14/fourth-party-calls-third-party-content/
+  * Fourth-party calls: What you don’t know can hurt your site… and your visitors
+* https://webperf.ninja/2017/analytics-lie/
+  * You can't rely on your web analytics for performance data and it's understating bounce rate and traffic numbers from old devices.
+  * Phantom bounces - user cancels the navigation
+* https://webperf.ninja/2016/three-takeaways-from-velocity/
+  * Three WebPerf Takeaways from Velocity Europe
+    * Performance KPIs are broken
+    * Team success = business success
+    * We are not using great Web features
 
 ## Progressive Web Applications
 
 ### Tools or Documentation
 
 * https://jakearchibald.com/2014/offline-cookbook/
+  * Caching and offline done right
 * https://developers.google.com/web/progressive-web-apps/checklist
 * https://developers.google.com/web/fundamentals/primers/service-workers/
 * https://github.com/GoogleChromeLabs/sw-precache
 * https://github.com/GoogleChromeLabs/sw-toolbox
+* https://jakearchibald.github.io/isserviceworkerready/
+  * Is service worker ready?
 
 ### Blog Posts and Tutorials
 
