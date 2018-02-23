@@ -174,6 +174,9 @@ Just a long list of links to interesting stuff that I have stumbled upon. The li
   * The future of the web (Web 3.0) relies on decentralized solutions
 * https://m.signalvnoise.com/stimulus-1-0-a-modest-javascript-framework-for-the-html-you-already-have-f04307009130
   * Stimulus 1.0: A modest JavaScript framework for the HTML you already have
+* https://www.smashingmagazine.com/2018/02/jquery-vue-javascript/
+  * Replacing jQuery with Vue makes your code simpler
+  * No build step needed
 
 ## Software Development in General
 
