@@ -36,6 +36,8 @@ Just a long list of links to interesting stuff that I have stumbled upon. The li
   * Winning on Mobile - Compare web site speeds based on Chrome User Experience Report (CrUX) data
 * https://wpostats.com/
   * Case studies and experiments demonstrating the impact of web performance optimization (WPO) on user experience and business metrics
+* https://developers.google.com/web/fundamentals/performance/speed-tools/
+  * An infographic explaining Google's web performance tools and how to think about them.
 
 ### Blog Posts and Tutorials
 
