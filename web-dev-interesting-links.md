@@ -107,6 +107,8 @@ Just a long list of links to interesting stuff that I have stumbled upon. The li
     * Performance KPIs are broken
     * Team success = business success
     * We are not using great Web features
+* http://nicj.net/an-audit-of-boomerangs-performance/
+  * Thorough audit of Boomerang’s (RUM analytics script) performance
 
 ## Progressive Web Applications
 
