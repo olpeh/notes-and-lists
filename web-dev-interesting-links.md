@@ -109,6 +109,13 @@ Just a long list of links to interesting stuff that I have stumbled upon. The li
     * We are not using great Web features
 * http://nicj.net/an-audit-of-boomerangs-performance/
   * Thorough audit of Boomerang’s (RUM analytics script) performance
+* https://developers.google.com/web/fundamentals/performance/why-performance-matters/
+  * Performance is about improving conversions
+  * Performance is about the user experience
+  * Performance is about people
+* https://www.doubleclickbygoogle.com/articles/mobile-speed-matters/
+  * Over half of all mobile site visits are abandoned if the page doesn’t load within 3 seconds
+  * 3 out of 4 mobile sites take longer than 10 seconds to load and the average time to load is 19 seconds
 
 ## Progressive Web Applications
 
