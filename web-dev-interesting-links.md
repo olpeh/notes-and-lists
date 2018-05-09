@@ -38,6 +38,8 @@ Just a long list of links to interesting stuff that I have stumbled upon. The li
   * Case studies and experiments demonstrating the impact of web performance optimization (WPO) on user experience and business metrics
 * https://developers.google.com/web/fundamentals/performance/speed-tools/
   * An infographic explaining Google's web performance tools and how to think about them.
+* https://testmysite.withgoogle.com/
+  * Test your site's mobile speed.
 
 ### Blog Posts and Tutorials
 
