@@ -29,17 +29,24 @@ Just a long list of links to interesting stuff that I have stumbled upon. The li
   * RAIL: Response, Animation, Idle, Load
   * Performance guidelines
 * https://www-origin.sitespeed.io/
-  * Sitespeed.io is a set of Open Source tools that makes it easy to monitor and measure the performance of your web site.
+  * Sitespeed.io is a set of Open Source tools that makes it easy to monitor and measure the performance of your website.
 * https://github.com/ausi/respimagelint
   * Bookmarklet for linting images on a webpage
 * https://www.thinkwithgoogle.com/feature/mobile/
-  * Winning on Mobile - Compare web site speeds based on Chrome User Experience Report (CrUX) data
+  * Winning on Mobile – Compare website speeds based on Chrome User Experience Report (CrUX) data
 * https://wpostats.com/
   * Case studies and experiments demonstrating the impact of web performance optimization (WPO) on user experience and business metrics
 * https://developers.google.com/web/fundamentals/performance/speed-tools/
   * An infographic explaining Google's web performance tools and how to think about them.
 * https://testmysite.withgoogle.com/
   * Test your site's mobile speed.
+* https://speedcurve.com/
+  * See how real people experience the speed of your website.
+  * Uses WebPageTest under the hood
+* https://calibreapp.com/
+  * World-class web performance monitoring for teams who want to be the best.
+  * Seems pretty similar to SpeedCurve
+  * Uses LightHouse under the hood
 
 ### Blog Posts and Tutorials
 
@@ -118,6 +125,13 @@ Just a long list of links to interesting stuff that I have stumbled upon. The li
 * https://www.doubleclickbygoogle.com/articles/mobile-speed-matters/
   * Over half of all mobile site visits are abandoned if the page doesn’t load within 3 seconds
   * 3 out of 4 mobile sites take longer than 10 seconds to load and the average time to load is 19 seconds
+* https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/
+  * Can You Afford It?: Real-world Web Performance Budgets
+  * Majority of the users are on a slow connection
+  * Baseline device is surprisingly low-end, and will probably not improve a lot
+  * Calculations for affordability
+    * First load in under 5s and second load in under 2s on 3G
+    * Leads to 130-170KB as the budget
 
 ## Progressive Web Applications
 
