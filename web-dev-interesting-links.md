@@ -132,6 +132,8 @@ Just a long list of links to interesting stuff that I have stumbled upon. The li
   * Calculations for affordability
     * First load in under 5s and second load in under 2s on 3G
     * Leads to 130-170KB as the budget
+* https://philipwalton.com/articles/the-google-analytics-setup-i-use-on-every-site-i-build'
+  * Nice tip for how to set up GA in order to get the most out of it
 
 ## Progressive Web Applications
 
