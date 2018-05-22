@@ -147,6 +147,8 @@ Just a long list of links to interesting stuff that I have stumbled upon. The li
 * https://github.com/GoogleChromeLabs/sw-toolbox
 * https://jakearchibald.github.io/isserviceworkerready/
   * Is service worker ready?
+* https://serviceworke.rs/
+  * A set of recipes and patterns for service workers
 
 ### Blog Posts and Tutorials
 
