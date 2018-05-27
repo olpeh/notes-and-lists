@@ -47,6 +47,10 @@ Just a long list of links to interesting stuff that I have stumbled upon. The li
   * World-class web performance monitoring for teams who want to be the best.
   * Seems pretty similar to SpeedCurve
   * Uses LightHouse under the hood
+* https://tools.keycdn.com/speed
+  * Website Speed Test
+* http://www.performancebudget.io/
+  * Calculate a performance budget for your site
 
 ### Blog Posts and Tutorials
 
